@@ -1,1 +1,1 @@
-# Capstone-SN05
+# Segment Based Abnormality Detection in EEG Recordings
